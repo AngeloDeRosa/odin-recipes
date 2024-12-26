@@ -7,4 +7,7 @@ Skills developed include:
 - Create and clone a git repository with github
 - Edit a README
 - Keep organized folders of HTML files on my local machine
-- Push files to github with descriptive commit messages
+- Push files to github with concise and descriptive commit messages
+- Create HTML files with proper boilerplate and headings
+- Embed images with descriptive alt text
+- Create ordered and unordered lists
